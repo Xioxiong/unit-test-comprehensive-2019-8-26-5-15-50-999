@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unit-test-comprehensive.iml" filepath="$PROJECT_DIR$/.idea/modules/unit-test-comprehensive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unit-test-comprehensive.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unit-test-comprehensive.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unit-test-comprehensive.test.iml" filepath="$PROJECT_DIR$/.idea/modules/unit-test-comprehensive.test.iml" />
+    </modules>
+  </component>
+</project>
